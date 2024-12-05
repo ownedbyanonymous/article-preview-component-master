@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/ownedbyanonymous/article-preview)
+- Solution URL: [Solution URL](https://github.com/ownedbyanonymous/article-preview-component-master)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
